@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  transition: all 0.8s;
+  box-sizing: border-box;
+}
+// *:hover{
+//   color: red;
+// }
+.container {
+  position: relative;
+  max-width: 1440px;
+  flex-wrap: wrap;
+  height: 1431px;
+  margin: auto;
+}
+.nav__links:hover{
+  color: red;
+}
